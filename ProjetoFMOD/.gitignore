@@ -1,0 +1,19 @@
+# ==========================================
+# FMOD Studio - Arquivos Ignorados
+# ==========================================
+
+# Pastas de cache, builds e arquivos temporários
+.cache/
+.unsaved/
+.user/
+Build/
+
+# Arquivos específicos de usuário local
+*.user
+*.fspro.user
+
+# Logs e arquivos temporários do sistema
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
