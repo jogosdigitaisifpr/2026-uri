@@ -1,0 +1,1 @@
+Incluir os arquivos editáveis: arquivos vetoriais, modelos do blender, etc. 
